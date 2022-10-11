@@ -1,4 +1,4 @@
-# Manual Telegram - Manual
+# Manual Telegram - Arduino
 
 I wanted to create a bot on Telegram that will turn the light on and off if I send a message. I found a tutorial on randomnerdtutorials.com that’s gonna help me to make this happen.
 
